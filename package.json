@@ -2,14 +2,14 @@
   "name": "airapi",
   "version": "0.1.0",
   "description": "A JS wrapper for airbnb API",
-  "author": "Si Pham (phamtrisi@gmail.com)",
+  "author": "Travis Holt & Si Pham",
   "scripts": {
     "examples": "node ./examples/main.js"
   },
   "main": "airbnb.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phamtrisi/airapi.git"
+    "url": "https://github.com/1upward/airapi.git"
   },
   "keywords": [
     "airbnb",
